@@ -1,0 +1,7 @@
+module.exports.MODEL_STATUS = {
+    PENDING : "PENDING",
+    ACTIVE : "ACTIVE",
+    INACTIVE : "INACTIVE",
+    ARCHIVE : "ARCHIVED",
+    TRASHED : "THRASHED"
+  }
